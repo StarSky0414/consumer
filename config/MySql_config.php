@@ -8,9 +8,9 @@
 
 class MySql_config
 {
-        public static $host='120.25.96.141';
-        public static $username='StarSky';
-        public static $password='StarSky0414';
+        public static $host='';
+        public static $username='';
+        public static $password='';
         public static $dbname='win';
 
 }
