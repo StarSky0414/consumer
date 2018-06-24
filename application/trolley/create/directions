@@ -1,0 +1,244 @@
+
+创建房间
+
+https://thethreestooges.cn:666/trolley/create/create_room
+创建房间
+json
+{
+    "mer_item": [
+        {
+            "class_name": "饮料",
+            "item_info": [
+                {
+                    "name": "雪碧",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_010405.jpg",
+                    "discount": "0",
+                    "discount_singe": "0",
+                    "univalence": "10",
+                    "item_id": "153"
+                },
+                {
+                    "name": "红酒",
+                    "photo": "merchant/1151803550@qq.com/item/20180328_041050.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "389",
+                    "item_id": "167"
+                },
+                {
+                    "name": "拉菲红酒",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122233.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "899",
+                    "item_id": "195"
+                },
+                {
+                    "name": "鸡尾酒",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122305.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "36",
+                    "item_id": "196"
+                },
+                {
+                    "name": "鲜榨果汁",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122333.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "12",
+                    "item_id": "197"
+                },
+                {
+                    "name": "拉菲",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_103828.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "899",
+                    "item_id": "216"
+                },
+                {
+                    "name": "可乐",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_103850.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "8",
+                    "item_id": "217"
+                },
+                {
+                    "name": "雪碧",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_103910.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "8",
+                    "item_id": "218"
+                },
+                {
+                    "name": "橙汁",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_103927.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "12",
+                    "item_id": "219"
+                },
+                {
+                    "name": "鸡尾酒",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_103946.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "30",
+                    "item_id": "220"
+                },
+                {
+                    "name": "米饭",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_104020.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "1.5",
+                    "item_id": "221"
+                },
+                {
+                    "name": "馒头",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_104040.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "1",
+                    "item_id": "222"
+                },
+                {
+                    "name": "冰淇淋",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_104109.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "39",
+                    "item_id": "223"
+                },
+                {
+                    "name": "蛋糕",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_104128.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "15",
+                    "item_id": "224"
+                },
+                {
+                    "name": "布丁",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_104153.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "12",
+                    "item_id": "225"
+                },
+                {
+                    "name": "马卡龙",
+                    "photo": "merchant/1581593923@qq.com/item/20180411_104213.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "20",
+                    "item_id": "226"
+                }
+            ]
+        },
+        {
+            "class_name": "主食",
+            "item_info": [
+                {
+                    "name": "米饭",
+                    "photo": "merchant/1151803550@qq.com/item/20180326_093854.jpg",
+                    "discount": "0",
+                    "discount_singe": "0",
+                    "univalence": "2.2",
+                    "item_id": "148"
+                },
+                {
+                    "name": "煎饺",
+                    "photo": "merchant/1151803550@qq.com/item/20180326_094740.jpg",
+                    "discount": "0",
+                    "discount_singe": "0",
+                    "univalence": "26",
+                    "item_id": "150"
+                },
+                {
+                    "name": "馒头",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122409.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "1.5",
+                    "item_id": "198"
+                },
+                {
+                    "name": "小馒头",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122443.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "1.5",
+                    "item_id": "199"
+                }
+            ]
+        },
+        {
+            "class_name": "热菜",
+            "item_info": [
+                {
+                    "name": "热带风情披萨",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122524.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "39",
+                    "item_id": "200"
+                },
+                {
+                    "name": "奥尔良披萨",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122558.jpg",
+                    "discount": "1.7",
+                    "discount_singe": "1",
+                    "univalence": "39",
+                    "item_id": "201"
+                },
+                {
+                    "name": "炸鸡",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122647.jpg",
+                    "discount": "-1",
+                    "discount_singe": "1",
+                    "univalence": "49",
+                    "item_id": "202"
+                },
+                {
+                    "name": "红烧鱼",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122736.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "40",
+                    "item_id": "203"
+                }
+            ]
+        },
+        {
+            "class_name": "汤品",
+            "item_info": [
+                {
+                    "name": "大骨汤",
+                    "photo": "merchant/1151803550@qq.com/item/20180411_122940.jpg",
+                    "discount": "1",
+                    "discount_singe": "0",
+                    "univalence": "39",
+                    "item_id": "204"
+                }
+            ]
+        },
+        {
+            "class_name": "甜品1",
+            "item_info": []
+        },
+        {
+            "class_name": "凉菜",
+            "item_info": []
+        },
+        {
+            "class_name": "水果",
+            "item_info": []
+        }
+    ],
+    "discount": "8.9折",
+    "VIP_name": "青铜会员"
+}
